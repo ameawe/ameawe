@@ -11,7 +11,7 @@ Actualmente estoy trabajando en mi proyecto Cybertarot🔮, una página web con 
 ## 🎓 Estoy aprendiendo
 
 - [html, javascript, css] 💻 en [www.google.com](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) con el enfoque de seguir avanzando tanto en mi aprendizaje como en mi proyecto, que ya que como yo aún casi no piloto, lo he ido generando con la ayuda de chatgpt 🤖
-- Cómo modificar el readme de github con encabezados y listas, gracias a la ayuda de Copilot 😊
+  
 
 
 ## Contáctame:
