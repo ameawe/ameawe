@@ -10,7 +10,7 @@ Actualmente estoy trabajando en mi proyecto Cybertarot🔮, una página web con 
 
 ## 🎓 Estoy aprendiendo
 
-- [html, javascript, css] 💻 en [www.google.com](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) con el enfoque de seguir avanzando tanto en mi aprendizaje como en mi proyecto, que ya que como yo aún casi no piloto, lo he ido generando con la ayuda de chatgpt 🤖
+- [html, javascript, css] 💻 en [google](https://www.google.com) con el enfoque de seguir avanzando tanto en mi aprendizaje como en mi proyecto, que ya que como yo aún casi no piloto, lo he ido generando con la ayuda de chatgpt 🤖
   
 
 
@@ -20,4 +20,4 @@ Actualmente estoy trabajando en mi proyecto Cybertarot🔮, una página web con 
 
 ## No me toques
 
-[Click Me!](https://docs.github.com/es/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/about-writing-and-formatting-on-github)
+[Click Me!]([)](https://www.google.com)
