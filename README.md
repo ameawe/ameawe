@@ -18,4 +18,4 @@ Actualmente estoy trabajando en mi proyecto Cybertarot🔮, una página web con 
 📧 [e.meaw.a@outlook.com]
 ## No me toques
 
-[Click Me!]([)](https://www.google.com)
+[Click Me!](https://www.google.com)
