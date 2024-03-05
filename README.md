@@ -4,7 +4,7 @@ He llegado a Github desde Madrid, una lejana ciudad en un país llamado España 
 
 He llegado aquí con ganas de iniciarme en este gran mundo de la programación y también de conocer a otros habitantes de este mundo con los que poder aprender y también con los que poder asociarme y perfeccionar mis artilugios espaciales 🚀
 
-## 🌠 Mi proyecto actual: Cybertarot🔮
+## 🌠 Mi proyecto actual: Cybertarott🔮
 
 Actualmente estoy trabajando en mi proyecto Cybertarot🔮, una página web con estilo futurista que ofrecerá lecturas del tarot interactivas generadas por inteligencia artificial, con distintos modos de tirada y cartas de estilo futurista que serán presentadas a los usuarios con efectos visuales y animaciones 3D.🌌
 
@@ -13,11 +13,9 @@ Actualmente estoy trabajando en mi proyecto Cybertarot🔮, una página web con 
 - [html, javascript, css] 💻 en [google](https://www.google.com) con el enfoque de seguir avanzando tanto en mi aprendizaje como en mi proyecto, que ya que como yo aún casi no piloto, lo he ido generando con la ayuda de chatgpt 🤖
   
 
-
 ## Contáctame:
 
-📧 [e.meaw.a@outlook.com](https://bing.com/search?q=c%c3%b3mo+ajustar+el+c%c3%b3digo+de+marcado+de+github)
-
+📧 [e.meaw.a@outlook.com]
 ## No me toques
 
 [Click Me!]([)](https://www.google.com)
